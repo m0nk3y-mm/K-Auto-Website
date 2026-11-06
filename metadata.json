@@ -1,0 +1,6 @@
+{
+  "name": "ApexAuto Myanmar - Automotive Parts & Accessories",
+  "description": "Premium automotive spare parts & accessories e-commerce catalog with built-in persistent database, vehicle model compatibility matcher, customer checkout, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
